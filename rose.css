@@ -1,0 +1,13 @@
+div{
+ margin: 0 auto;
+}
+
+body {
+    background-color: #fff;
+}
+
+#svg{
+  background-color: darkseagreen;
+  background: #fff;
+  width: 500px;
+}
